@@ -1,0 +1,64 @@
+Số thứ tự,"Tên tỉnh, thành phố",Mã viết tắt[2],Tỉnh lỵ[3],Khu vực,Năm thành lập[4],Dân số (người)[5],Diện tích (km²)[6],Mật độ (người/km²),Hành chính cấp huyện,Biển số xe,Mã vùng ĐT
+1,Hà Giang,HGI,Thành phố Hà Giang,Đông Bắc Bộ,1891,854.679,"7.929,5",108,11,23,0219
+2,Cao Bằng,CBA,Thành phố Cao Bằng,Đông Bắc Bộ,1499,530.341,"6.700,3",79,10,11,0206
+3,Lào Cai,LCI,Thành phố Lào Cai,Tây Bắc Bộ,1907,730.420,6.364,115,9,24,0214
+4,Sơn La,SLA,Thành phố Sơn La,Tây Bắc Bộ,1895,1.248.415,"14.123,5",88,12,26,0212
+5,Lai Châu,LCA,Thành phố Lai Châu,Tây Bắc Bộ,1909,460.196,"9.068,8",51,8,25,0213
+6,Bắc Kạn,BKA,Thành phố Bắc Kạn,Đông Bắc Bộ,1900,313.905,"4.859,96",65,8,97,0209
+7,Lạng Sơn,LSN,Thành phố Lạng Sơn,Đông Bắc Bộ,1831,781.655,"8.310,2",94,11,12,0205
+8,Tuyên Quang,TQU,Thành phố Tuyên Quang,Đông Bắc Bộ,1831,784.811,"5.867,9",134,7,22,0207
+9,Yên Bái,YBA,Thành phố Yên Bái,Tây Bắc Bộ,1900,821.030,"6.887,7",119,9,21,0216
+10,Thái Nguyên,TNG,Thành phố Thái Nguyên,Đông Bắc Bộ,1831,1.286.751,"3.536,4",364,9,20,0208
+11,Điện Biên,DBI,Thành phố Điện Biên Phủ,Tây Bắc Bộ,2004,598.856,9.541,63,10,27,0215
+12,Phú Thọ,PTH,Thành phố Việt Trì,Đông Bắc Bộ,1891,1.463.726,"3.534,6",414,13,19,0210
+13,Vĩnh Phúc,VPH,Thành phố Vĩnh Yên,Đồng bằng sông Hồng,1950,1.154.154,"1.235,2",934,9,88,0211
+14,Bắc Giang,BGI,Thành phố Bắc Giang,Đông Bắc Bộ,1895,1.803.950,"3.851,4",468,10,13 và 98,0204
+15,Bắc Ninh,BNI,Thành phố Bắc Ninh,Đồng bằng sông Hồng,1831,1.368.840,"822,7",1.664,8,13 và 99,0222
+16,Hà Nội,HNO,Quận Hoàn Kiếm,Đồng bằng sông Hồng,1010,8.053.663,"3.358,9",2.398,30,29 đến 33 và 40,024
+17,Quảng Ninh,QNH,Thành phố Hạ Long,Đông Bắc Bộ,1963,1.320.324,"6.177,7",214,13,14,0203
+18,Hải Dương,HDU,Thành phố Hải Dương,Đồng bằng sông Hồng,1469,1.892.254,"1.668,2",1.135,12,34,0220
+19,Hải Phòng,HPG,Quận Hồng Bàng,Đồng bằng sông Hồng,1888,2.028.514,"1.522,5",1.332,15,15 và 16,0225
+20,Hòa Bình,HBI,Thành phố Hòa Bình,Tây Bắc Bộ,1886,854.131,4.591,186,10,28,0218
+21,Hưng Yên,HYE,Thành phố Hưng Yên,Đồng bằng sông Hồng,1831,1.252.731,"930,2",1.347,10,89,0221
+22,Hà Nam,HNA,Thành phố Phủ Lý,Đồng bằng sông Hồng,1890,852.800,"860,9",991,6,90,0226
+23,Thái Bình,TBH,Thành phố Thái Bình,Đồng bằng sông Hồng,1890,1.860.447,"1.570,5",1.185,8,17,0227
+24,Nam Định,NDH,Thành phố Nam Định,Đồng bằng sông Hồng,1832,1.780.393,1.668,1.067,10,18,0228
+25,Ninh Bình,NBI,Thành phố Ninh Bình,Đồng bằng sông Hồng,1831,982.487,1.387,708,8,35,0229
+26,Thanh Hóa,THA,Thành phố Thanh Hóa,Bắc Trung Bộ,1029,3.640.128,"11.114,7",328,27,36,0237
+27,Nghệ An,NAN,Thành phố Vinh,Bắc Trung Bộ,1469,3.327.791,"16.493,7",202,21,37,0238
+28,Hà Tĩnh,HTI,Thành phố Hà Tĩnh,Bắc Trung Bộ,1831,1.288.866,"5.990,7",215,13,38,0239
+29,Quảng Bình,QBI,Thành phố Đồng Hới,Bắc Trung Bộ,1604,895.430,"8.065,3",111,8,73,0232
+30,Quảng Trị,QTR,Thành phố Đông Hà,Bắc Trung Bộ,1832,632.375,"4.739,8",133,10,74,0233
+31,Thừa Thiên Huế,TTH,Thành phố Huế,Bắc Trung Bộ,1822,1.128.620,"5.048,2",224,9,75,0234
+32,Đà Nẵng,DNG,Quận Hải Châu,Duyên hải Nam Trung Bộ,1888,1.134.310,"1.284,9",883,8,43,0236
+33,Quảng Nam,QNA,Thành phố Tam Kỳ,Duyên hải Nam Trung Bộ,1831,1.495.812,"10.574,7",141,18,92,0235
+34,Quảng Ngãi,QNG,Thành phố Quảng Ngãi,Duyên hải Nam Trung Bộ,1831,1.231.697,"5.135,2",240,13,76,0255
+35,Kon Tum,KTU,Thành phố Kon Tum,Tây Nguyên,1913,540.438,"9.674,2",56,10,82,0260
+36,Gia Lai,GLA,Thành phố Pleiku,Tây Nguyên,1932,1.513.847,"15.510,8",98,17,81,0269
+37,Bình Định,BDI,Thành phố Quy Nhơn,Duyên hải Nam Trung Bộ,1790,1.486.918,"6.066,2",245,11,77,0256
+38,Phú Yên,PYE,Thành phố Tuy Hòa,Duyên hải Nam Trung Bộ,1610,961.152,"5.023,4",191,9,78,0257
+39,Đắk Lắk,DLA,Thành phố Buôn Ma Thuột,Tây Nguyên,1904,1.869.322,"13.030,5",143,15,47,0262
+40,Khánh Hòa,KHA,Thành phố Nha Trang,Duyên hải Nam Trung Bộ,1653,1.231.107,"5.137,8",240,9,79,0258
+41,Đắk Nông,DKN,Thành phố Gia Nghĩa,Tây Nguyên,2004,622.168,"6.509,3",96,8,48,0261
+42,Lâm Đồng,LDG,Thành phố Đà Lạt,Tây Nguyên,1958,1.296.606,"9.783,2",133,12,49,0263
+43,Ninh Thuận,NTH,Thành phố Phan Rang – Tháp Chàm,Duyên hải Nam Trung Bộ,1889,590.467,"3.355,3",176,7,85,0259
+44,Bình Phước,BPC,Thành phố Đồng Xoài,Đông Nam Bộ,1956,994.679,6.877,145,11,93,0271
+45,Tây Ninh,TNI,Thành phố Tây Ninh,Đông Nam Bộ,1836,1.169.165,"4.041,4",289,9,70,0276
+46,Bình Dương,BDU,Thành phố Thủ Dầu Một,Đông Nam Bộ,1888,2.426.561,"2.694,7",900,9,61,0274
+47,Đồng Nai,DNA,Thành phố Biên Hòa,Đông Nam Bộ,1802,3.097.107,"5.905,7",524,11,39 và 60,0251
+48,Bình Thuận,BTN,Thành phố Phan Thiết,Duyên hải Nam Trung Bộ,1653,1.230.808,"7.812,8",158,10,86,0252
+49,Thành phố Hồ Chí Minh,HCM,Quận 1,Đông Nam Bộ,1698,8.993.082,2.061,4.363,22,50 đến 59 và 41,028
+50,Long An,LAN,Thành phố Tân An,Đồng bằng sông Cửu Long,1955,1.688.547,"4.490,2",376,15,62,0272
+51,Bà Rịa – Vũng Tàu,VTB,Thành phố Bà Rịa,Đông Nam Bộ,1888,1.148.313,"1.980,8",580,8,72,0254
+52,Đồng Tháp,DTP,Thành phố Cao Lãnh,Đồng bằng sông Cửu Long,1976,1.599.504,"3.383,8",473,12,66,0277
+53,An Giang,AGI,Thành phố Long Xuyên,Đồng bằng sông Cửu Long,1832,1.908.352,"3.536,7",540,11,67,0296
+54,Tiền Giang,TGG,Thành phố Mỹ Tho,Đồng bằng sông Cửu Long,1976,1.764.185,"2.510,5",703,11,63,0273
+55,Vĩnh Long,VLG,Thành phố Vĩnh Long,Đồng bằng sông Cửu Long,1832,1.022.791,1.475,693,8,64,0270
+56,Bến Tre,BTR,Thành phố Bến Tre,Đồng bằng sông Cửu Long,1888,1.288.463,"2.394,6",538,9,71,0275
+57,Cần Thơ,CTH,Quận Ninh Kiều,Đồng bằng sông Cửu Long,1888,1.235.171,"1.439,2",858,9,65,0292
+58,Kiên Giang,KGI,Thành phố Rạch Giá,Đồng bằng sông Cửu Long,1955,1.723.067,"6.348,8",271,15,68,0297
+59,Trà Vinh,TVH,Thành phố Trà Vinh,Đồng bằng sông Cửu Long,1888,1.009.168,"2.358,2",428,9,84,0294
+60,Hậu Giang,HAG,Thành phố Vị Thanh,Đồng bằng sông Cửu Long,2004,733.017,"1.621,8",452,8,95,0293
+61,Sóc Trăng,STR,Thành phố Sóc Trăng,Đồng bằng sông Cửu Long,1888,1.199.653,"3.311,8",362,11,83,0299
+62,Bạc Liêu,BLI,Thành phố Bạc Liêu,Đồng bằng sông Cửu Long,1888,907.236,2.669,340,7,94,0291
+63,Cà Mau,CMU,Thành phố Cà Mau,Đồng bằng sông Cửu Long,1955,1.194.476,"5.294,8",226,9,69,0290
